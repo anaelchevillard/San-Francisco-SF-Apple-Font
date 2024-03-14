@@ -29,6 +29,8 @@ They will enable you to design user interfaces on all platforms, Windows, Linux 
 Here is a list of all the fonts in the latest release (14/03/2024)
 
 - [x] SF Pro fonts
+- `SF Pro`
+- `SF Pro Italic`  
   - [x] SF Pro Display
     - `SF Pro Display Black`
     - `SF Pro Display Black Italic`
@@ -41,7 +43,7 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Pro Display Medium`
     - `SF Pro Display Medium Italic`
     - `SF Pro Display Regular`
-    - `SF Pro Display Regulard Italic`
+    - `SF Pro Display Regular Italic`
     - `SF Pro Display Light`
     - `SF Pro Display Light Italic`
     - `SF Pro Display Thin`
@@ -60,7 +62,7 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Pro Text Medium`
     - `SF Pro Text Medium Italic`
     - `SF Pro Text Regular`
-    - `SF Pro Text Regulard Italic`
+    - `SF Pro Text Regular Italic`
     - `SF Pro Text Light`
     - `SF Pro Text Light Italic`
     - `SF Pro Text Thin`
@@ -78,6 +80,8 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Pro Rounded Thin`
     - `SF Pro Rounded Ultralight`
 - [x] SF Compact fonts
+- `SF Compact`
+- `SF Compact Italic`  
   - [x] SF Compact Display
     - `SF Compact Display Black`
     - `SF Compact Display Heavy`
@@ -100,7 +104,7 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Compact Text Medium`
     - `SF Compact Text Medium Italic`
     - `SF Compact Text Regular`
-    - `SF Compact Text Regulard Italic`
+    - `SF Compact Text Regular Italic`
     - `SF Compact Text Light`
     - `SF Compact Text Light Italic`
     - `SF Compact Text Thin`
@@ -127,7 +131,7 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Mono Medium`
     - `SF Mono Medium Italic`
     - `SF Mono Regular`
-    - `SF Mono Regulard Italic`
+    - `SF Mono Regular Italic`
     - `SF Mono Light`
     - `SF Mono Light Italic`
 - [x] SF Script Extensions

@@ -16,7 +16,7 @@ They will enable you to design user interfaces on all platforms, Windows, Linux 
 
 ## Sommaire
 
-- [Go to release](https://github.com/shidos-anael/All-Apple-Fonts/releases)
+- [Go to release](https://github.com/chevillardanael/San-Francisco-SF-Apple-Font/releases)
 - Download the latest version
 - Once downloaded
   - Unzip the zip

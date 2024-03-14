@@ -1,4 +1,4 @@
-# ALL APPLE SANFRANCISCO FONT
+# ALL APPLE SAN FRANCISCO (SF) FONT
 
 > [!WARNING]  
 > **I'm not affiliated with Apple**

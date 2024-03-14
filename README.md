@@ -42,3 +42,41 @@ Here is a list of all the fonts in the latest release (14/03/2024)
     - `SF Pro Display Thin Italic`
     - `SF Pro Display Ultralight`
     - `SF Pro Display Ultralight Italic`
+  - [x] SF Pro Text
+    - `SF Pro Text Black`
+    - `SF Pro Text Black Italic`
+    - `SF Pro Text Heavy`
+    - `SF Pro Text Heavy Italic`
+    - `SF Pro Text Bold`
+    - `SF Pro Text Bold Italic`
+    - `SF Pro Text Semi-Bold`
+    - `SF Pro Text Semi-Bold Italic`
+    - `SF Pro Text Medium`
+    - `SF Pro Text Medium Italic`
+    - `SF Pro Text Regular`
+    - `SF Pro Text Regulard Italic`
+    - `SF Pro Text Light`
+    - `SF Pro Text Light Italic`
+    - `SF Pro Text Thin`
+    - `SF Pro Text Thin Italic`
+    - `SF Pro Text Ultralight`
+    - `SF Pro Text Ultralight Italic`
+  - [x] SF Pro Rounded
+    - `SF Pro Rounded Black`
+    - `SF Pro Rounded Black Italic`
+    - `SF Pro Rounded Heavy`
+    - `SF Pro Rounded Heavy Italic`
+    - `SF Pro Rounded Bold`
+    - `SF Pro Rounded Bold Italic`
+    - `SF Pro Rounded Semi-Bold`
+    - `SF Pro Rounded Semi-Bold Italic`
+    - `SF Pro Rounded Medium`
+    - `SF Pro Rounded Medium Italic`
+    - `SF Pro Rounded Regular`
+    - `SF Pro Rounded Regulard Italic`
+    - `SF Pro Rounded Light`
+    - `SF Pro Rounded Light Italic`
+    - `SF Pro Rounded Thin`
+    - `SF Pro Rounded Thin Italic`
+    - `SF Pro Rounded Ultralight`
+    - `SF Pro Rounded Ultralight Italic`
